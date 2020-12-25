@@ -1,4 +1,4 @@
 [submodule "lib"]
 	path = lib
 	url = git@github.com:daer-71/calibre-store-lib.git
-    branch = master
+	branch = master
